@@ -12,7 +12,7 @@ Desde o período da popularização dos aplicativos de navegação, é muito com
 
 Uma reportagem feita pelo portal de notícias G1, em 2015, expõe também um dos casos em que um usuário de um aplicativo de navegação, foi atacado por traficantes enquanto procurava uma pizzaria com a ajuda do aplicativo [2]. Pensando em casos como estes, o sistema desenvolvido tem como objetivo aplicar mais uma camada no calculo das rotas, levando em consideração dados de segurança. A utilização da ciência de dados é vital para o funcionamento do projeto, que coleta dados fornecidos por órgãos governamentais e mapeia os locais com maior incidência de crimes na região da rota calculada e os pontuando, apenas após o cálculo da segurança da rota, a velocidade do trajeto seria considerada, dando como resultado final para o usuário a rota mais rápida dentro de um padrão de segurança. Atualmente os aplicativos tradicionais não levam dados de segurança em consideração, portanto, o sistema se categoriza como uma inovação no ramo.
 
-#### 1.1. Objetivos
+#### **1.1. Objetivos**
 
 O projeto tem como objetivo o desenvolvimento de um sistema de navegação que, com a utilização de dados fornecidos pela Secretaria de Segurança Pública do estado de São Paulo, determine a rota mais segura até um destino limitado dentro da cidade de São José dos Campos.
 
